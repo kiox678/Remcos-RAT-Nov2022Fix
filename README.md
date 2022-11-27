@@ -40,3 +40,4 @@ Supports SOCKS5 in both Direct and Reverse modes.
 A wide array of functions, contained in a tiny package.
 The agent part, written in C++, is only ~100 kb uncompressed.
 That’s because performance has always been a priority in the development, as well as maximum compatibility with any Windows system.
+![68747470733a2f2f692e696d6775722e636f6d2f6e3956665a30522e706e67](https://user-images.githubusercontent.com/119217696/204145019-8d3c7e1e-05fb-4cad-bbbc-9dd3d629b796.png)
